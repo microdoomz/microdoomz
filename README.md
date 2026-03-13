@@ -1,6 +1,10 @@
 <h1 align="center">Mohammed Junaid</h1>
 <h3 align="center">🔐 Security-Focused Full Stack Developer | Zero-Knowledge Systems Builder</h3>
 
+<p align="center">
+  <img src="space-shooter.gif" width="900"/>
+</p>
+
 ---
 
 ## 💫 About Me
@@ -19,6 +23,7 @@ I design and build **secure, production-ready web systems** with encryption-firs
 
 ### 🔐 Veil — Zero-Knowledge Encrypted Cloud Storage  
 **Tech:** JavaScript, Supabase, Cloudflare R2, Web Crypto API  
+
 - Client-side AES-256-GCM encryption  
 - PBKDF2-based secure key derivation  
 - Chunked large-file processing  
@@ -31,6 +36,7 @@ I design and build **secure, production-ready web systems** with encryption-firs
 
 ### ⛽ GaugeIQ — Vehicle Analytics & Expense Tracker  
 **Tech:** TypeScript, React, Supabase  
+
 - Full-stack mileage & fuel analytics  
 - Normalized relational schema  
 - Interactive dashboard with dynamic calculations  
@@ -42,6 +48,7 @@ I design and build **secure, production-ready web systems** with encryption-firs
 
 ### 🔒 Vaultara — Browser-Based File Encryption  
 **Tech:** JavaScript, Web Crypto API  
+
 - AES-256 encryption up to 4GB files  
 - Fully client-side cryptographic workflow  
 - Optional recovery key mechanism  
