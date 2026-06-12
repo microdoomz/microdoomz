@@ -171,6 +171,10 @@ Browser-based large-file encryption platform.
 
 ## 🏛 IQAC Portal
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=180&text=IQAC%20Portal&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+</p>
+
 ### AI-Powered Multi-Tenant Quality Assurance Platform
 
 <p align="center">
@@ -179,9 +183,6 @@ Browser-based large-file encryption platform.
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=180&text=IQAC%20Portal&fontColor=ffffff&fontSize=50&animation=fadeIn" />
-</p>
 
 A production-grade SaaS platform designed for colleges and educational institutions to manage Internal Quality Assurance Cell (IQAC) operations at scale.
 
@@ -236,6 +237,10 @@ Unlike traditional college management software, IQAC Portal introduces AI-assist
 
 ## 🔐 Veil
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:8B5CF6&height=180&text=VEIL&fontColor=ffffff&fontSize=55" />
+</p>
+
 ### Zero-Knowledge Encrypted Cloud Storage
 
 <p align="center">
@@ -244,9 +249,6 @@ Unlike traditional college management software, IQAC Portal introduces AI-assist
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:8B5CF6&height=180&text=VEIL&fontColor=ffffff&fontSize=55" />
-</p>
 
 A browser-first encrypted storage platform where encryption happens entirely on the client side before files leave the user's device.
 
@@ -280,16 +282,16 @@ Only encrypted data is stored, ensuring that even infrastructure operators canno
 
 ## ⛽ GaugeIQ
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=180&text=GaugeIQ&fontColor=ffffff&fontSize=50" />
+</p>
+
 ### Vehicle Analytics & Expense Intelligence Platform
 
 <p align="center">
   <a href="https://gauge-iq.vercel.app">
     <img src="https://img.shields.io/badge/Live-GaugeIQ-8B5CF6?style=for-the-badge" />
   </a>
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=180&text=GaugeIQ&fontColor=ffffff&fontSize=50" />
 </p>
 
 A full-stack analytics platform built to help users monitor fuel usage, mileage efficiency and long-term vehicle expenses.
@@ -318,6 +320,10 @@ A full-stack analytics platform built to help users monitor fuel usage, mileage 
 
 ## 🔒 Vaultara
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:C084FC&height=180&text=Vaultara&fontColor=ffffff&fontSize=50" />
+</p>
+
 ### Browser-Based File Encryption Platform
 
 <p align="center">
@@ -326,9 +332,7 @@ A full-stack analytics platform built to help users monitor fuel usage, mileage 
   </a>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:C084FC&height=180&text=Vaultara&fontColor=ffffff&fontSize=50" />
-</p>
+
 
 A privacy-focused browser application for encrypting large files directly inside the browser.
 
@@ -435,8 +439,6 @@ Coffee Consumed             ∞
 - Explore distributed systems at scale
 
 ---
-
-# 📊 GitHub Analytics
 
 # 📊 GitHub Analytics
 
