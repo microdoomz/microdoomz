@@ -439,8 +439,8 @@ Coffee Consumed             ∞
 # 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=microdoomz&show_icons=true&theme=midnight-purple&hide_border=true&rank_icon=github"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microdoomz&layout=compact&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=microdoomz&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=microdoomz&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
@@ -452,7 +452,7 @@ Coffee Consumed             ∞
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=microdoomz&theme=algolia&no-frame=true&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=microdoomz&theme=discord&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -460,7 +460,7 @@ Coffee Consumed             ∞
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=microdoomz&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=microdoomz&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c084fc&area=true&hide_border=true" />
 </p>
 
 ---
@@ -476,7 +476,7 @@ Coffee Consumed             ∞
 # 🌟 3D Contribution Calendar
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+  <img src="https://raw.githubusercontent.com/microdoomz/microdoomz/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </p>
 
 ---
