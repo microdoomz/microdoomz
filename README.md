@@ -179,6 +179,10 @@ Browser-based large-file encryption platform.
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,100:A855F7&height=180&text=IQAC%20Portal&fontColor=ffffff&fontSize=50&animation=fadeIn" />
+</p>
+
 A production-grade SaaS platform designed for colleges and educational institutions to manage Internal Quality Assurance Cell (IQAC) operations at scale.
 
 The platform combines workflow automation, document intelligence, AI verification, reporting systems, tenant isolation, role-based security and cloud storage into a single integrated system.
@@ -240,6 +244,10 @@ Unlike traditional college management software, IQAC Portal introduces AI-assist
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:4C1D95,100:8B5CF6&height=180&text=VEIL&fontColor=ffffff&fontSize=55" />
+</p>
+
 A browser-first encrypted storage platform where encryption happens entirely on the client side before files leave the user's device.
 
 ### Core Features
@@ -280,6 +288,10 @@ Only encrypted data is stored, ensuring that even infrastructure operators canno
   </a>
 </p>
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:A855F7&height=180&text=GaugeIQ&fontColor=ffffff&fontSize=50" />
+</p>
+
 A full-stack analytics platform built to help users monitor fuel usage, mileage efficiency and long-term vehicle expenses.
 
 ### Features
@@ -312,6 +324,10 @@ A full-stack analytics platform built to help users monitor fuel usage, mileage 
   <a href="https://microdoomz.github.io/vaultara">
     <img src="https://img.shields.io/badge/Live-Vaultara-8B5CF6?style=for-the-badge" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B21B6,100:C084FC&height=180&text=Vaultara&fontColor=ffffff&fontSize=50" />
 </p>
 
 A privacy-focused browser application for encrypting large files directly inside the browser.
