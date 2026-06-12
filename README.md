@@ -452,7 +452,7 @@ Coffee Consumed             ∞
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=microdoomz&theme=algolia&no-frame=true&no-bg=true&row=1&column=7"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=microdoomz&theme=discord&no-frame=true&row=1&column=7" />
 </p>
 
 ---
