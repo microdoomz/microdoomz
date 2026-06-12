@@ -452,7 +452,7 @@ Coffee Consumed             ∞
 # 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=microdoomz&theme=discord&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=microdoomz&theme=algolia&no-frame=true&margin-w=10" />
 </p>
 
 ---
@@ -460,14 +460,12 @@ Coffee Consumed             ∞
 # 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=microdoomz&bg_color=0d1117&color=a855f7&line=8b5cf6&point=c084fc&area=true&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=microdoomz&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 # 🐍 Contribution Snake
-
-> Create a workflow later to generate the snake animation automatically.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/microdoomz/microdoomz/output/github-contribution-grid-snake-dark.svg" />
